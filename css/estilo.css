@@ -1,0 +1,213 @@
+*{
+    margin: 0;
+    padding: 0;   
+    
+}
+.container-menu-inicial{
+    margin: 0 auto;
+    position: relative;
+    width: 960px;
+    
+}
+
+header{
+    min-width: 100%;
+    width: 100%;
+    border-radius: 05px;
+    height: 90px;
+    background-color:#9600D6;  
+}
+.menu-opcoes{
+    float: right;
+    right: 0;
+    padding-top: 60px;
+    padding-right: 5px;
+}
+.menu-opcoes a{
+    text-decoration: none;
+    color: white;
+}
+
+.menu-opcoes a:hover{
+    border-bottom: 2px solid #701A6C;
+}
+.menu-opcoes ul li{
+    display: inline;
+    padding-right: 15px;
+    margin-top: 20px;
+
+}
+
+body{
+    margin-left: auto;
+    margin-right: auto;
+    width: 960px;
+    height: 100%;
+    background-image: linear-gradient(to right,#492870, #8B4DD6);
+    margin-top: 05px;
+   
+}
+.container{
+    width: 960px;
+    height: 960px;
+    background-color: #6F559D;
+    border-radius: 5px;
+}
+.imagem1{
+    text-align: center;
+    padding-top: 10px;
+}
+#BIOGRAFIA{
+    text-align: center;
+    padding-bottom: 05px;
+    padding: 05px;
+ 
+}
+.PBiografia{
+    color: white;
+    text-indent: justify;
+    padding: 0 30px;
+
+}
+.busca{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.busca input[type="search"]{
+    width: 170px;
+}
+.busca input{
+    vertical-align: left;
+    border-radius: 05px;
+}
+.busca form{
+    padding-top: 60px;
+}
+
+.rodape{
+    background-color: #9600D6;
+    text-align: center;
+    height: 45px;
+    padding-top: 20px;
+    border-radius: 05px;
+
+}
+
+.imagem2{
+    padding: 15px;
+}
+
+#ANCORA,
+.imagem2{
+    padding: 10px 40px;
+    float: left;
+}
+#ANCORA{
+    padding-top: 70px;
+    padding-left: 78px;
+
+}
+
+#descrição{
+    float: right;
+    padding-right: 10px;
+    padding-top: 0px;
+    text-indent: justify;
+    color: white;
+
+}
+
+figcaption{
+    text-align: center;
+    color: white;
+}
+
+
+.imagem3{
+    padding-top: 200px;
+    float: right;
+    padding-right: 100px;
+    margin: -3px;
+}
+#descap{
+    padding-top: 16px;
+    clear: left;
+    padding-left: 25px;
+    color: white;
+}
+#APRESENTADORA{
+    clear: left;
+    padding-left: 85px;
+    padding-top: 90px;
+
+
+}
+
+.imagem4{
+    padding-top: 200px;
+    float: left;
+    padding-left: 56px;
+    margin: -3px;
+
+}
+#ATRIZ{
+    float: right;
+    
+    left: 2px;
+    
+    padding-right: 0px;
+    padding-top: 265px;
+    text-align: center;
+
+    
+}
+#descAT{
+    padding-top: 16px;
+    float: right;
+    padding-right: 65px;
+    color: white;
+
+}
+#ATRIZ,
+#descAT{
+    padding-left: 20px;
+}
+#links{
+    
+    padding-top: 20px;
+    text-align: center;
+}
+#links li:hover{
+    transform: scale(1.2);
+    transition: 0.5s;
+}
+#links a{
+    text-decoration: none;
+    color: white;
+    padding-left: 40px;
+}
+#links  li{
+    padding-top: 30px;
+    text-decoration: none;  
+    list-style: none;
+}
+#alinharTlink{
+    padding-top: 40px;
+    text-align: center;
+}
+
+.melhor{
+    text-align: center;
+}
+
+#ufrj{
+    text-decoration: none;
+    color: red;
+}
+
+#descEx{
+    padding-top: 47px;
+    padding-left: 124px;
+    color: white;
+}
